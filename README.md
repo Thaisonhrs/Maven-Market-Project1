@@ -1,7 +1,6 @@
-# Maven-Market-Project1
-# Role: Personal Project
-# Processed and cleaned data
-# Built relationships and data models
-Utilized DAX functions to add data fields and measures
-Visualized data and designed dashboards
-Provided essential insights
+# Maven-Market-Project
+Dự án giả lập quy trình phân tích dữ liệu công ty Maven Market - chuỗi cửa hàng tiện lợi đa quốc gia. Quy trình thực hiện 
+- Xử lý và làm sạch data, 
+- Xây dựng relationship và data model
+- Thêm các trường dữ liệu, các measures
+- Thiết kế Dashboard
